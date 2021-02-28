@@ -1,0 +1,8 @@
+{
+    "MAIL_SERVER":"smtp.163.com",
+    "MAIL_USE_TLS":true,
+    "MAIL_USER":"liujp_201817@163.com",
+    "MAIL_PASSWORD":"SVUCNEEANISJDVED",
+    "MAIL_DEFAULT_SENDER":"ljp <liujp_201817@163.com>"
+}
+
