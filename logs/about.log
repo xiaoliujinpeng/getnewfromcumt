@@ -1,1 +1,26 @@
 2021-03-01 21:57:48 - __main__ - INFO - test
+2021-03-01 22:13:47 - logs - INFO - test
+2021-03-01 22:13:48 - logs - INFO - 获取到教务网内容,[{'title': '开学第一天我校线上教学平稳进行', 'link': 'http://xwzx.cumt.edu.cn/00/8f/c513a589967/page.htm', 'time': '2021-03-01'}, {'title': '我校新增10个国家级一流本科专业建设点', 'link': 'http://xwzx.cumt.edu.cn/00/90/c513a589968/page.htm', 'time': '2021-03-01'}, {'title': '我校新增4个本科专业', 'link': 'http://xwzx.cumt.edu.cn/00/3c/c513a589884/page.htm', 'time': '2021-02-28'}, {'title': '我校召开中层干部大会', 'link': 'http://xwzx.cumt.edu.cn/00/22/c513a589858/page.htm', 'time': '2021-02-27'}, {'title': '我校举行校领导班子和领导干部2020年度述职测评大会', 'link': 'http://xwzx.cumt.edu.cn/00/10/c513a589840/page.htm', 'time': '2021-02-26'}, {'title': '我校校友朴永超荣获全国脱贫攻坚先进个人称号', 'link': 'http://xwzx.cumt.edu.cn/00/0c/c513a589836/page.htm', 'time': '2021-02-26'}]
+2021-03-01 22:13:50 - logs - INFO - 发送邮件到用户
+2021-03-01 22:13:50 - logs - INFO - 发送邮件到用户
+2021-03-01 22:13:52 - logs - INFO - 重新写入data.csv，覆盖原有的内容
+2021-03-01 22:16:14 - logs - INFO - test
+2021-03-01 22:16:15 - logs - INFO - 获取到教务网内容,[{'title': '开学第一天我校线上教学平稳进行', 'link': 'http://xwzx.cumt.edu.cn/00/8f/c513a589967/page.htm', 'time': '2021-03-01'}, {'title': '我校新增10个国家级一流本科专业建设点', 'link': 'http://xwzx.cumt.edu.cn/00/90/c513a589968/page.htm', 'time': '2021-03-01'}, {'title': '我校新增4个本科专业', 'link': 'http://xwzx.cumt.edu.cn/00/3c/c513a589884/page.htm', 'time': '2021-02-28'}, {'title': '我校召开中层干部大会', 'link': 'http://xwzx.cumt.edu.cn/00/22/c513a589858/page.htm', 'time': '2021-02-27'}, {'title': '我校举行校领导班子和领导干部2020年度述职测评大会', 'link': 'http://xwzx.cumt.edu.cn/00/10/c513a589840/page.htm', 'time': '2021-02-26'}, {'title': '我校校友朴永超荣获全国脱贫攻坚先进个人称号', 'link': 'http://xwzx.cumt.edu.cn/00/0c/c513a589836/page.htm', 'time': '2021-02-26'}]
+2021-03-01 22:16:16 - logs - INFO - 发送邮件到用户
+2021-03-01 22:16:16 - logs - INFO - 发送邮件到用户
+2021-03-01 22:16:17 - logs - INFO - 重新写入data.csv，覆盖原有的内容
+2021-03-01 22:16:36 - logs - INFO - test
+2021-03-01 22:16:37 - logs - INFO - 获取到教务网内容,[{'title': '开学第一天我校线上教学平稳进行', 'link': 'http://xwzx.cumt.edu.cn/00/8f/c513a589967/page.htm', 'time': '2021-03-01'}, {'title': '我校新增10个国家级一流本科专业建设点', 'link': 'http://xwzx.cumt.edu.cn/00/90/c513a589968/page.htm', 'time': '2021-03-01'}, {'title': '我校新增4个本科专业', 'link': 'http://xwzx.cumt.edu.cn/00/3c/c513a589884/page.htm', 'time': '2021-02-28'}, {'title': '我校召开中层干部大会', 'link': 'http://xwzx.cumt.edu.cn/00/22/c513a589858/page.htm', 'time': '2021-02-27'}, {'title': '我校举行校领导班子和领导干部2020年度述职测评大会', 'link': 'http://xwzx.cumt.edu.cn/00/10/c513a589840/page.htm', 'time': '2021-02-26'}, {'title': '我校校友朴永超荣获全国脱贫攻坚先进个人称号', 'link': 'http://xwzx.cumt.edu.cn/00/0c/c513a589836/page.htm', 'time': '2021-02-26'}]
+2021-03-01 22:16:37 - logs - INFO - 发送邮件到用户
+2021-03-01 22:16:38 - logs - INFO - 发送邮件到用户
+2021-03-01 22:16:38 - logs - INFO - 重新写入data.csv，覆盖原有的内容
+2021-03-01 22:18:03 - logs - INFO - test
+2021-03-01 22:18:04 - logs - INFO - 获取到教务网内容,[{'title': '开学第一天我校线上教学平稳进行', 'link': 'http://xwzx.cumt.edu.cn/00/8f/c513a589967/page.htm', 'time': '2021-03-01'}, {'title': '我校新增10个国家级一流本科专业建设点', 'link': 'http://xwzx.cumt.edu.cn/00/90/c513a589968/page.htm', 'time': '2021-03-01'}, {'title': '我校新增4个本科专业', 'link': 'http://xwzx.cumt.edu.cn/00/3c/c513a589884/page.htm', 'time': '2021-02-28'}, {'title': '我校召开中层干部大会', 'link': 'http://xwzx.cumt.edu.cn/00/22/c513a589858/page.htm', 'time': '2021-02-27'}, {'title': '我校举行校领导班子和领导干部2020年度述职测评大会', 'link': 'http://xwzx.cumt.edu.cn/00/10/c513a589840/page.htm', 'time': '2021-02-26'}, {'title': '我校校友朴永超荣获全国脱贫攻坚先进个人称号', 'link': 'http://xwzx.cumt.edu.cn/00/0c/c513a589836/page.htm', 'time': '2021-02-26'}]
+2021-03-01 22:18:04 - logs - INFO - 发送邮件到用户
+2021-03-01 22:18:05 - logs - INFO - 发送邮件到用户
+2021-03-01 22:18:06 - logs - INFO - 重新写入data.csv，覆盖原有的内容
+2021-03-01 22:20:32 - logs - INFO - test
+2021-03-01 22:20:32 - logs - INFO - 获取到教务网内容,[{'title': '开学第一天我校线上教学平稳进行', 'link': 'http://xwzx.cumt.edu.cn/00/8f/c513a589967/page.htm', 'time': '2021-03-01'}, {'title': '我校新增10个国家级一流本科专业建设点', 'link': 'http://xwzx.cumt.edu.cn/00/90/c513a589968/page.htm', 'time': '2021-03-01'}, {'title': '我校新增4个本科专业', 'link': 'http://xwzx.cumt.edu.cn/00/3c/c513a589884/page.htm', 'time': '2021-02-28'}, {'title': '我校召开中层干部大会', 'link': 'http://xwzx.cumt.edu.cn/00/22/c513a589858/page.htm', 'time': '2021-02-27'}, {'title': '我校举行校领导班子和领导干部2020年度述职测评大会', 'link': 'http://xwzx.cumt.edu.cn/00/10/c513a589840/page.htm', 'time': '2021-02-26'}, {'title': '我校校友朴永超荣获全国脱贫攻坚先进个人称号', 'link': 'http://xwzx.cumt.edu.cn/00/0c/c513a589836/page.htm', 'time': '2021-02-26'}]
+2021-03-01 22:20:33 - logs - INFO - 发送邮件到用户
+2021-03-01 22:20:34 - logs - INFO - 发送邮件到用户
+2021-03-01 22:20:35 - logs - INFO - 重新写入data.csv，覆盖原有的内容
