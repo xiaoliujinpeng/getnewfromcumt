@@ -1,10 +1,14 @@
 import logging
 import logging.handlers
+import os.path
+filedir = os.path.dirname(os.path.abspath(__file__))
+
+
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
 
-
-th=logging.handlers.TimedRotatingFileHandler("logs/about.log","D",1,10,encoding="utf-8")
+log_filename=os.path.join(filedir,"logs/about.log")
+th=logging.handlers.TimedRotatingFileHandler(log_filename,"D",1,10,encoding="utf-8")
 
 
 
