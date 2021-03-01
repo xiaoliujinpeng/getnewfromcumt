@@ -6,7 +6,7 @@ from email.utils import formataddr
 
 configure = json.load(open("configure.json", "r"))
 receivers = ["1240682960@qq.com"]
-def send_mail(target):
+def send_email(target):
     message = MIMEText("{},{},{}".format(target.get("title"),target.get("link"),target.get("time")), "plain", "utf-8")
     message['From'] = formataddr(('我的爬虫',configure.get("MAIL_USER")))
     message['To'] = formataddr(('用户',receivers[0]))
