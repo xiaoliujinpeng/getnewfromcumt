@@ -1,3 +1,1 @@
-2021-03-01 14:37:29 - logs - INFO - test
-2021-03-01 14:37:30 - logs - INFO - 获取到教务网内容,[{'title': '我校新增4个本科专业', 'link': 'http://xwzx.cumt.edu.cn/00/3c/c513a589884/page.htm', 'time': '2021-02-28'}, {'title': '我校召开中层干部大会', 'link': 'http://xwzx.cumt.edu.cn/00/22/c513a589858/page.htm', 'time': '2021-02-27'}, {'title': '我校举行校领导班子和领导干部2020年度述职测评大会', 'link': 'http://xwzx.cumt.edu.cn/00/10/c513a589840/page.htm', 'time': '2021-02-26'}, {'title': '我校校友朴永超荣获全国脱贫攻坚先进个人称号', 'link': 'http://xwzx.cumt.edu.cn/00/0c/c513a589836/page.htm', 'time': '2021-02-26'}, {'title': '我校天津校友会相关负责人来校交流', 'link': 'http://xwzx.cumt.edu.cn/00/17/c513a589847/page.htm', 'time': '2021-02-26'}, {'title': '我校2部教材入选江苏省研究生优秀教材', 'link': '/_redirect?siteId=44&columnId=19673&articleId=589660', 'time': '2021-02-20'}]
-2021-03-01 14:37:31 - logs - INFO - 重新写入data.csv，覆盖原有的内容
+2021-03-01 21:57:48 - __main__ - INFO - test

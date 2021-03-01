@@ -3,8 +3,13 @@ import json
 from email.mime.text import MIMEText
 from email.header import Header
 from email.utils import formataddr
+import os.path
 
-configure = json.load(open("configure.json", "r"))
+filedir = os.path.abspath(__file__)
+
+conf_file=os.path.join(filedir,"configure.json")
+
+configure = json.load(open(conf_file, "r"))
 receivers = ["1240682960@qq.com"]
 def send_email(target):
     message = MIMEText("{},{},{}".format(target.get("title"),target.get("link"),target.get("time")), "plain", "utf-8")
